@@ -1,5 +1,5 @@
 ### What is PHP DialogFuel.
-PHP DialogFuel is a Small API Service For Connect ChatFuel (Chatbot) to Dialogflow(Api.ai).This Service is Middle man for get user input form ChatFuel Chatbot and send to Natural-language process in Dialogflow then Return to User Answer. For Developer who want to make Smarter and Human like Chatbot.
+PHP DialogFuel is a Small API Service For Connect ChatFuel (Chatbot) to Dialogflow(AI).This Service is Middle man for get user input form ChatFuel Chatbot and send to Natural-language process in Dialogflow then Return to User Answer. For Developer who want to make Smarter and Human like Chatbot.
 - Support PHP Version 5.0+
 - Host only on SSL Hosting (with https://)
 - this include [**unirest-php**](https://github.com/Kong/unirest-php "**unirest-php**") for Request Service 
