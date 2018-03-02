@@ -9,12 +9,14 @@ PHP DialogFuel is a Small API Service For Connect ChatFuel (Chatbot) to Dialogfl
 1. Pull requests. or Download PHP-Dialogfuel as Zip
 2. Open file **Config.php** then Change **ClientToken** and **DevToken** with Your Key (Get it in Dialogflow Setting page)
 
+```php
         <?php
     	$qversion = "20150910"; 
     	$lang = "en";
     	$ClientToken = "Client access token Here"; //Change this
     	$DevToken = "Developer access token Here"; // Change this
         ?>
+```
 	
 3. Upload All File in Folder **PHP_DialogFuel** to Your SLL Hosting.
 4. Testing Connection to Dialogflow by Enter https://yoursite.com/filepath/DialogFuel.php?txttodialogflow=Hello it's Ok,If show Greeting form Default Welcome Intent. like this. `    {"messages":[{"text":"Hello!"}]}`
