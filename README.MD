@@ -17,10 +17,7 @@ PHP DialogFuel is a Small API Service For Connect ChatFuel (Chatbot) to Dialogfl
         ?>
 	
 3. Upload All File in Folder **PHP_DialogFuel** to Your SLL Hosting.
-4. Testing Connection to Dialogflow by Enter https://yoursite.com/filepath/DialogFuel.php?txttodialogflow=Hello it's Ok,If show Greeting form Default Welcome Intent. like this.
-```json
-    {"messages":[{"text":"Hello!"}]}
-```
+4. Testing Connection to Dialogflow by Enter https://yoursite.com/filepath/DialogFuel.php?txttodialogflow=Hello it's Ok,If show Greeting form Default Welcome Intent. like this. `    {"messages":[{"text":"Hello!"}]}`
 
 ### Connect to ChatFuel Bot
 1. Go to Your bot and Select **Default Answer** Block
